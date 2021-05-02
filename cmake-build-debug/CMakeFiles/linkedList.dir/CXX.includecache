@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dell/CLionProjects/linkedList/main.cpp
+iostream
+-
+src/linked_list.hpp
+/home/dell/CLionProjects/linkedList/src/linked_list.hpp
+
+/home/dell/CLionProjects/linkedList/src/linked_list.hpp
+node.hpp
+/home/dell/CLionProjects/linkedList/src/node.hpp
+iostream
+-
+
+/home/dell/CLionProjects/linkedList/src/node.hpp
+

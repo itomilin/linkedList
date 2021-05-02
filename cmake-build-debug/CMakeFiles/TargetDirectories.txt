@@ -1,0 +1,3 @@
+/home/dell/CLionProjects/linkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dell/CLionProjects/linkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dell/CLionProjects/linkedList/cmake-build-debug/CMakeFiles/linkedList.dir
